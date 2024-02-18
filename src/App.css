@@ -1,0 +1,9 @@
+body {
+  background-color: #fff; /* Default background color for light mode */
+  color: #333; /* Default text color for light mode */
+}
+
+body.dark-mode {
+  background-color: grey; /* Background color for dark mode */
+  color: #fff; /* Text color for dark mode */
+}
